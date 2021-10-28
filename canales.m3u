@@ -1,0 +1,430 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CL 24 HORAS" tvg-name="24 Horas HD *" tvg-logo="http://logos.iptv.wtf/chile/24horas.png" group-title="Noticias",24 Horas HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/2109.ts
+#EXTINF:-1 tvg-id="CL 24 HORAS" tvg-name="24 Horas SD" tvg-logo="http://logos.iptv.wtf/chile/24horas.png" group-title="Noticias",24 Horas SD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/2110.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/271.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10" tvg-logo="" group-title="24/7",24/7 Ben 10
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/274.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10: Omniverse" tvg-logo="" group-title="24/7",24/7 Ben 10: Omniverse
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/275.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bewitched Hechizada" tvg-logo="" group-title="24/7",24/7 Bewitched Hechizada
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/276.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bobs Burgers" tvg-logo="" group-title="24/7",24/7 Bobs Burgers
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/278.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del zodiaco" tvg-logo="" group-title="24/7",24/7 Caballeros del zodiaco
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/279.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/288.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD *" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/289.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El chavo del 8" tvg-logo="" group-title="24/7",24/7 El chavo del 8
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/291.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="" group-title="24/7",24/7 El Coyote y el Correcaminos
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/292.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fantasias animadas de ayer y hoy" tvg-logo="" group-title="24/7",24/7 Fantasias animadas de ayer y hoy
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/296.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La familia Addams" tvg-logo="" group-title="24/7",24/7 La familia Addams
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/302.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Monster" tvg-logo="" group-title="24/7",24/7 La Familia Monster
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/303.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="" group-title="24/7",24/7 La pantera rosa
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/304.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson HD" tvg-logo="" group-title="24/7",24/7 Los Simpson HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/307.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson T01-T15" tvg-logo="" group-title="24/7",24/7 Los Simpson T01-T15
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/308.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson T1-T2" tvg-logo="" group-title="24/7",24/7 Los Simpson T1-T2
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/8274.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson T16-T27" tvg-logo="" group-title="24/7",24/7 Los Simpson T16-T27
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/309.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Supersonicos" tvg-logo="" group-title="24/7",24/7 Los Supersonicos
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/310.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mi Bella Genio" tvg-logo="" group-title="24/7",24/7 Mi Bella Genio
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/312.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro" tvg-logo="" group-title="24/7",24/7 Pinky y Cerebro
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/313.ts
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/314.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="" group-title="24/7",24/7 Thundercats
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/315.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry" tvg-logo="" group-title="24/7",24/7 Tom y Jerry
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/316.ts
+#EXTINF:-1 tvg-id="CL ANIMAL PLANET" tvg-name="Animal Planet HD" tvg-logo="http://logos.iptv.wtf/culturales/animalplanet.png" group-title="Culturales",Animal Planet HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/8888.ts
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 Full HD" tvg-logo="" group-title="Entretenimiento",Azteca 7 Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/247.ts
+#EXTINF:-1 tvg-id="USA BEIN SPORTS N" tvg-name="beIN SPORTS Ñ HD" tvg-logo="http://logos.iptv.wtf/deportes/beinsportsn.png" group-title="Deportes",beIN SPORTS Ñ HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/1647.ts
+#EXTINF:-1 tvg-id="USA BEIN SPORTS N" tvg-name="Bein Sports Ñ HD *" tvg-logo="http://logos.iptv.wtf/deportes/beinsportsn.png" group-title="Deportes",Bein Sports Ñ HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/6814.ts
+#EXTINF:-1 tvg-id="MX BOOMERANG" tvg-name="Boomerang HD" tvg-logo="http://logos.iptv.wtf/infantiles/boomerang.png" group-title="Infantiles",Boomerang HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/245.ts
+#EXTINF:-1 tvg-id="CL CARTOON NETWORK" tvg-name="Cartoon Network HD" tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png" group-title="Infantiles",Cartoon Network HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9529.ts
+#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="TNT Sports HD (CDF Full HD)" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF Full HD)
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/16.ts
+#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="TNT Sports HD (CDF Full HD) *" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF Full HD) *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/18.ts
+#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="TNT Sports HD (CDF HD)" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF HD)
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/17.ts
+#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="TNT Sports HD (CDF HD) *" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF HD) *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/6817.ts
+#EXTINF:-1 tvg-id="CL CDF PREMIUM" tvg-name="TNT Sports 2 (CDF Premium)" tvg-logo="http://logos.iptv.wtf/deportes/cdfp.png" group-title="Deportes",TNT Sports 2 (CDF Premium)
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/6818.ts
+#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="CDF SD" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",CDF SD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/6822.ts
+#EXTINF:-1 tvg-id="CL 13C" tvg-name="CL: 13C HD" tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/47.ts
+#EXTINF:-1 tvg-id="CL BOOMERANG" tvg-name="Boomerang" tvg-logo="http://logos.iptv.wtf/infantiles/boomerang.png" group-title="Infantiles",Boomerang
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9029.ts
+#EXTINF:-1 tvg-id="CL CANAL 13" tvg-name="CL: Canal 13 HD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title="Chile",CL: Canal 13 HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/4.ts
+#EXTINF:-1 tvg-id="CL CANAL 13" tvg-name="CL: Canal 13 HD *" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title="Chile",CL: Canal 13 HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9048.ts
+#EXTINF:-1 tvg-id="CL CANAL 13" tvg-name="CL: Canal 13 HD **" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title="Chile",CL: Canal 13 HD **
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9752.ts
+#EXTINF:-1 tvg-id="CL CANAL 13" tvg-name="CL: Canal 13 SD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title="Chile",CL: Canal 13 SD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/8666.ts
+#EXTINF:-1 tvg-id="CL CARTOON NETWORK" tvg-name="CL: Cartoon Network Full HD" tvg-logo="http://logos.iptv.wtf/infantiles/cartoonnetwork.png" group-title="Chile",CL: Cartoon Network Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/49.ts
+#EXTINF:-1 tvg-id="CL CHV" tvg-name="CL: CHV Full HD" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/5.ts
+#EXTINF:-1 tvg-id="CL CHV" tvg-name="CL: CHV Full HD *" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV Full HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9753.ts
+#EXTINF:-1 tvg-id="CL CHV" tvg-name="CL: CHV HD" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/6.ts
+#EXTINF:-1 tvg-id="CL CHV" tvg-name="CL: CHV HD *" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9049.ts
+#EXTINF:-1 tvg-id="CL CHV" tvg-name="CL: CHV HD **" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV HD **
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9754.ts
+#EXTINF:-1 tvg-id="CL ESPN2" tvg-name="CL: ESPN 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png" group-title="Deportes",CL: ESPN 2 HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/32.ts
+#EXTINF:-1 tvg-id="CL ESPN3" tvg-name="CL: ESPN 3 HD" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",CL: ESPN 3 HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/33.ts
+#EXTINF:-1 tvg-id="CL ESPN" tvg-name="CL: ESPN HD" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",CL: ESPN HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/31.ts
+#EXTINF:-1 tvg-id="CL ETC TV" tvg-name="CL: ETC TV HD" tvg-logo="http://logos.iptv.wtf/chile/etc.png" group-title="Chile",CL: ETC TV HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/1513.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="CL: Fox Sports" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",CL: Fox Sports
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9672.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS 1" tvg-name="CL: Fox Sports 1" tvg-logo="http://logos.iptv.wtf/deportes/foxsports1.png" group-title="Deportes",CL: Fox Sports 1
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9673.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS 1" tvg-name="CL: Fox Sports 1 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports1hd.png" group-title="Deportes",CL: Fox Sports 1 Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/21.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS 1" tvg-name="CL: Fox Sports 1 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports1hd.png" group-title="Deportes",CL: Fox Sports 1 HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/22.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="CL: Fox Sports 2" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2.png" group-title="Deportes",CL: Fox Sports 2
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9674.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="CL: Fox Sports 2 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",CL: Fox Sports 2 Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/23.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="CL: Fox Sports 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",CL: Fox Sports 2 HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/24.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS 3" tvg-name="CL: Fox Sports 3" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3.png" group-title="Deportes",CL: Fox Sports 3
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9675.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS 3" tvg-name="CL: Fox Sports 3 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png" group-title="Deportes",CL: Fox Sports 3 Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/25.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS 3" tvg-name="CL: Fox Sports 3 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png" group-title="Deportes",CL: Fox Sports 3 HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/26.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="CL: Fox Sports Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",CL: Fox Sports Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/19.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="CL: Fox Sports HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",CL: Fox Sports HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/20.ts
+#EXTINF:-1 tvg-id="CL LA RED" tvg-name="CL: La Red Full HD *" tvg-logo="http://logos.iptv.wtf/chile/lared.png" group-title="Chile",CL: La Red Full HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9757.ts
+#EXTINF:-1 tvg-id="CL LA RED" tvg-name="CL: La Red HD" tvg-logo="http://logos.iptv.wtf/chile/lared.png" group-title="Chile",CL: La Red HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/10.ts
+#EXTINF:-1 tvg-id="CL LA RED" tvg-name="CL: La Red HD **" tvg-logo="http://logos.iptv.wtf/chile/lared.png" group-title="Chile",CL: La Red HD **
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9758.ts
+#EXTINF:-1 tvg-id="CL MEGA" tvg-name="CL: Mega HD" tvg-logo="http://logos.iptv.wtf/chile/mega.png" group-title="Chile",CL: Mega HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/2.ts
+#EXTINF:-1 tvg-id="CL MEGA" tvg-name="CL: Mega HD *" tvg-logo="http://logos.iptv.wtf/chile/mega.png" group-title="Chile",CL: Mega HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/7469.ts
+#EXTINF:-1 tvg-id="CL MEGA" tvg-name="CL: Mega HD **" tvg-logo="http://logos.iptv.wtf/chile/mega.png" group-title="Chile",CL: Mega HD **
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9750.ts
+#EXTINF:-1 tvg-id="CL MEGA PLUS" tvg-name="CL: Mega Plus HD" tvg-logo="http://logos.iptv.wtf/chile/megaplus.png" group-title="Chile",CL: Mega Plus HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9748.ts
+#EXTINF:-1 tvg-id="CL RECTV" tvg-name="CL: Rec TV HD" tvg-logo="http://logos.iptv.wtf/chile/rectv.png" group-title="Chile",CL: Rec TV HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/52.ts
+#EXTINF:-1 tvg-id="CL TVN" tvg-name="CL: TVN HD" tvg-logo="http://logos.iptv.wtf/chile/tvn.png" group-title="Chile",CL: TVN HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/8.ts
+#EXTINF:-1 tvg-id="CL TVN" tvg-name="CL: TVN HD *" tvg-logo="http://logos.iptv.wtf/chile/tvn.png" group-title="Chile",CL: TVN HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9050.ts
+#EXTINF:-1 tvg-id="CL TVN" tvg-name="CL: TVN HD **" tvg-logo="http://logos.iptv.wtf/chile/tvn.png" group-title="Chile",CL: TVN HD **
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9756.ts
+#EXTINF:-1 tvg-id="CL CNN CHILE" tvg-name="CNN Chile HD" tvg-logo="http://logos.iptv.wtf/chile/cnnchile.png" group-title="Noticias",CNN Chile HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/7464.ts
+#EXTINF:-1 tvg-id="CO CARACOL" tvg-name="CO: Caracol" tvg-logo="" group-title="Colombia",CO: Caracol
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/1567.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol HD2" tvg-logo="" group-title="Colombia",CO: Caracol HD2
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/1550.ts
+#EXTINF:-1 tvg-id="CL DIRECTV SPORTS" tvg-name="DirecTV Sports" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",DirecTV Sports
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/40.ts
+#EXTINF:-1 tvg-id="CL DIRECTV SPORTS 2" tvg-name="DirecTV Sports 2" tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png" group-title="Deportes",DirecTV Sports 2
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/43.ts
+#EXTINF:-1 tvg-id="CL DIRECTV SPORTS 2" tvg-name="DirecTV Sports 2" tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png" group-title="Deportes",DirecTV Sports 2
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/43.ts
+#EXTINF:-1 tvg-id="CL DIRECTV SPORTS 2" tvg-name="DirecTV Sports 2 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png" group-title="Deportes",DirecTV Sports 2 Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/41.ts
+#EXTINF:-1 tvg-id="CL DIRECTV SPORTS 2" tvg-name="DirecTV Sports 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png" group-title="Deportes",DirecTV Sports 2 HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/42.ts
+#EXTINF:-1 tvg-id="CL DIRECTV SPORTS" tvg-name="DirecTV Sports Full HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",DirecTV Sports Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/38.ts
+#EXTINF:-1 tvg-id="CL DIRECTV SPORTS" tvg-name="DirecTV Sports HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",DirecTV Sports HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/39.ts
+#EXTINF:-1 tvg-id="CL DIRECTV SPORTS PLUS" tvg-name="DirecTV Sports Plus HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsportsplus.png" group-title="Deportes",DirecTV Sports Plus HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/44.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: Gol TV" tvg-logo="" group-title="Ecuador",EC: Gol TV
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/1580.ts
+#EXTINF:-1 tvg-id="CL ESPN2" tvg-name="ESPN 2 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png" group-title="Deportes",ESPN 2 Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3476.ts
+#EXTINF:-1 tvg-id="CL ESPN2" tvg-name="ESPN 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png" group-title="Deportes",ESPN 2 HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3477.ts
+#EXTINF:-1 tvg-id="CL ESPN3" tvg-name="ESPN 3 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",ESPN 3 Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3479.ts
+#EXTINF:-1 tvg-id="CL ESPN3" tvg-name="ESPN 3 HD" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",ESPN 3 HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3480.ts
+#EXTINF:-1 tvg-id="CL ESPN" tvg-name="ESPN HD" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",ESPN HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3474.ts
+#EXTINF:-1 tvg-id="CL ESPNPLUS" tvg-name="ESPN Extra Full HD" tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png" group-title="Deportes",ESPN Extra Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3482.ts
+#EXTINF:-1 tvg-id="CL ESPNPLUS" tvg-name="ESPN Extra HD" tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png" group-title="Deportes",ESPN Extra HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3483.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="Fox Sports 2 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",Fox Sports 2 Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3488.ts
+#EXTINF:-1 tvg-id="MX FOX SPORTS 2" tvg-name="Fox Sports 2 Full HD *" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",Fox Sports 2 Full HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3332.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",Fox Sports 2 HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3489.ts
+#EXTINF:-1 tvg-id="MX FOX SPORTS 2" tvg-name="Fox Sports 2 HD (MX)" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2.png" group-title="Deportes",Fox Sports 2 HD (MX)
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/10270.ts
+#EXTINF:-1 tvg-id="CO FOX SPORTS 3" tvg-name="Fox Sports 3 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png" group-title="Deportes",Fox Sports 3 Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3491.ts
+#EXTINF:-1 tvg-id="MX FOX SPORTS 3" tvg-name="Fox Sports 3 Full HD *" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png" group-title="Deportes",Fox Sports 3 Full HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3329.ts
+#EXTINF:-1 tvg-id="CO FOX SPORTS 2" tvg-name="Fox Sports 3 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png" group-title="Deportes",Fox Sports 3 HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3492.ts
+#EXTINF:-1 tvg-id="MX FOX SPORTS 3" tvg-name="Fox Sports 3 HD (MX)" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3.png" group-title="Deportes",Fox Sports 3 HD (MX)
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/10271.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="Fox Sports Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",Fox Sports Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3485.ts
+#EXTINF:-1 tvg-id="MX FOX SPORTS" tvg-name="Fox Sports Full HD *" tvg-logo="http://logos.iptv.wtf/deportes/foxsports1hd.png" group-title="Deportes",Fox Sports Full HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3331.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="Fox Sports HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",Fox Sports HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3486.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV HD" tvg-logo="http://logos.iptv.wtf/deportes/goltv.png" group-title="Deportes",Gol TV HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/1649.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Full HD" tvg-logo="" group-title="Música",MTV Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3343.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live Full HD" tvg-logo="" group-title="Música",MTV Live Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/3348.ts
+#EXTINF:-1 tvg-id="CL NATGEO WILD" tvg-name="Natgeo Wild HD" tvg-logo="http://logos.iptv.wtf/culturales/natgeowild.png" group-title="Culturales",Natgeo Wild HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9532.ts
+#EXTINF:-1 tvg-id="CO NICK 2" tvg-name="TeenNick HD" tvg-logo="" group-title="Infantiles",TeenNick HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: Gol Peru HD" tvg-logo="" group-title="Perú",PE: Gol Peru HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/1545.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: Movistar Deportes HD" tvg-logo="" group-title="Perú",PE: Movistar Deportes HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/1503.ts
+#EXTINF:-1 tvg-id="" tvg-name="T13 HD" tvg-logo="" group-title="Noticias",T13 HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/2111.ts
+#EXTINF:-1 tvg-id="AR TYC SPORTS" tvg-name="TyC Sports Argentina HD" tvg-logo="http://logos.iptv.wtf/deportes/tycsports.png" group-title="Deportes",TyC Sports Argentina HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/6859.ts
+#EXTINF:-1 tvg-id="CO WIN SPORTS HD" tvg-name="Win Sports HD *" tvg-logo="http://logos.iptv.wtf/deportes/winsports.png" group-title="Deportes",Win Sports HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/6864.ts
+#EXTINF:-1 tvg-id="CO WINSPORTS PLUS" tvg-name="Win Sports + Full HD *" tvg-logo="" group-title="Deportes",Win Sports + Full HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/5937.ts
+#EXTINF:-1 tvg-id="CO WINSPORTS PLUS" tvg-name="Win Sports + Full HD" tvg-logo="http://logos.iptv.wtf/deportes/winsportsplus.png" group-title="Deportes",Win Sports + Full HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/6851.ts
+#EXTINF:-1 tvg-id="CO WINSPORTS PLUS" tvg-name="Win Sports + HD" tvg-logo="http://logos.iptv.wtf/deportes/winsportsplus.png" group-title="Deportes",Win Sports + HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/9083.ts
+#EXTINF:-1 tvg-id="CO WIN SPORTS HD" tvg-name="Win Sports HD" tvg-logo="http://logos.iptv.wtf/deportes/winsports.png" group-title="Deportes",Win Sports HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/8287.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra" tvg-logo="" group-title="24/7",24/7 Los Picapiedra
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/8985.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: Frecuencia Latina HD *" tvg-logo="" group-title="Perú",PE: Frecuencia Latina HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/11376.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: LATINA *" tvg-logo="" group-title="Perú",PE: LATINA *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/11382.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: Movistar Deportes" tvg-logo="" group-title="Perú",PE: Movistar Deportes
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/11385.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: Liga de Campeones" tvg-logo="" group-title="España",ES: Liga de Campeones
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/8038.ts
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports HD (Chile) *" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",DirecTV Sports HD (Chile) *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/13473.ts
+#EXTINF:-1 tvg-id="" tvg-name="TeenNick HD *" tvg-logo="" group-title="Infantiles",TeenNick HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/13475.ts
+#EXTINF:-1 tvg-id="" tvg-name="13C HD *" tvg-logo="" group-title="Chile",13C HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/13494.ts
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports HD (Chile)" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",DirecTV Sports HD (Chile)
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/13498.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas HD" tvg-logo="http://logos.iptv.wtf/chile/24horas.png" group-title="Noticias",24 Horas HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/13502.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: ESPN HD *" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",CL: ESPN HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/13505.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: ESPN 2 HD *" tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png" group-title="Deportes",CL: ESPN 2 HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/13506.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: ESPN 3 HD *" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",CL: ESPN 3 HD *
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/13507.ts
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-logo="http://logos.iptv.wtf/deportes/tycsports.png" group-title="Deportes",TyC Sports HD
+http://live.iptv.wtf:80/live/giqjxssu/85uyW4Kut1/13515.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latin PY Tigo Sports  (P)" tvg-logo="" group-title="PARAGUAY // LATINO",Latin PY Tigo Sports  (P)
+http://ultrontv.xyz:80/m123/m123/85963
+#EXTINF:-1 tvg-id="" tvg-name="Latin PY Tigo Sports Plus (P)" tvg-logo="" group-title="PARAGUAY // LATINO",Latin PY Tigo Sports Plus (P)
+http://ultrontv.xyz:80/m123/m123/85964
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 9 HD" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN Sports 9 HD
+http://ultrontv.xyz:80/m123/m123/80805
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 8 HD" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN Sports 8 HD
+http://ultrontv.xyz:80/m123/m123/80806
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 HD" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN Sports 7 HD
+http://ultrontv.xyz:80/m123/m123/80807
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 HD" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN Sports 6 HD
+http://ultrontv.xyz:80/m123/m123/80808
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 HD" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN Sports 5 HD
+http://ultrontv.xyz:80/m123/m123/80809
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 HD" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN Sports 4 HD
+http://ultrontv.xyz:80/m123/m123/80810
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 HD" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN Sports 3 HD
+http://ultrontv.xyz:80/m123/m123/80811
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 HD" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN Sports 2 HD
+http://ultrontv.xyz:80/m123/m123/80812
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 13 HD" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN Sports 13 HD
+http://ultrontv.xyz:80/m123/m123/80813
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 12 HD" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN Sports 12 HD
+http://ultrontv.xyz:80/m123/m123/80814
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 11 HD" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN Sports 11 HD
+http://ultrontv.xyz:80/m123/m123/80815
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 HD" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN Sports 1 HD
+http://ultrontv.xyz:80/m123/m123/80816
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPorts" tvg-logo="" group-title="SPORTS CHANNELS // TSN-SPORTSNET-BEIN-MSG-FOX SPORTS , ETC..",AR: beIN SPorts
+http://ultrontv.xyz:80/m123/m123/80836
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP LAS ESTRELLAS" tvg-logo="" group-title="MEXICO // LATINO",MX (HD) TP LAS ESTRELLAS
+http://ultrontv.xyz:80/m123/m123/73437
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP PX Sports" tvg-logo="" group-title="MEXICO // LATINO",MX (HD) TP PX Sports
+http://ultrontv.xyz:80/m123/m123/73440
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP AZTECA7" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP AZTECA7
+http://ultrontv.xyz:80/m123/m123/73467
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL 5" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP CANAL 5
+http://ultrontv.xyz:80/m123/m123/73478
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP CANAL DE LAS ESTRELLAS
+http://ultrontv.xyz:80/m123/m123/73481
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP ESPN
+http://ultrontv.xyz:80/m123/m123/73516
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN 2" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP ESPN 2
+http://ultrontv.xyz:80/m123/m123/73517
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN 3" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP ESPN 3
+http://ultrontv.xyz:80/m123/m123/73518
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN NETWORK" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP ESPN NETWORK
+http://ultrontv.xyz:80/m123/m123/73519
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN PLUS" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP ESPN PLUS
+http://ultrontv.xyz:80/m123/m123/73520
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP ESPN U" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP ESPN U
+http://ultrontv.xyz:80/m123/m123/73521
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SPORTS" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP FOX SPORTS
+http://ultrontv.xyz:80/m123/m123/73534
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SPORTS 2" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP FOX SPORTS 2
+http://ultrontv.xyz:80/m123/m123/73535
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP FOX SPORTS 3" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP FOX SPORTS 3
+http://ultrontv.xyz:80/m123/m123/73536
+#EXTINF:-1 tvg-id="" tvg-name="MX (SD) TP TOONCAST" tvg-logo="" group-title="MEXICO // LATINO",MX (SD) TP TOONCAST
+http://ultrontv.xyz:80/m123/m123/73588
+#EXTINF:-1 tvg-id="" tvg-name="MX Azteca 7 HD" tvg-logo="" group-title="MEXICO // LATINO",MX Azteca 7 HD
+http://ultrontv.xyz:80/m123/m123/73639
+#EXTINF:-1 tvg-id="" tvg-name="MX Azteca 7 SD" tvg-logo="" group-title="MEXICO // LATINO",MX Azteca 7 SD
+http://ultrontv.xyz:80/m123/m123/73640
+#EXTINF:-1 tvg-id="" tvg-name="MX Azteca Deportes HD" tvg-logo="" group-title="MEXICO // LATINO",MX Azteca Deportes HD
+http://ultrontv.xyz:80/m123/m123/73641
+#EXTINF:-1 tvg-id="" tvg-name="MX Canal 5 HD" tvg-logo="" group-title="MEXICO // LATINO",MX Canal 5 HD
+http://ultrontv.xyz:80/m123/m123/73653
+#EXTINF:-1 tvg-id="" tvg-name="MX Espn 2 HD" tvg-logo="" group-title="MEXICO // LATINO",MX Espn 2 HD
+http://ultrontv.xyz:80/m123/m123/73680
+#EXTINF:-1 tvg-id="" tvg-name="MX Espn 3" tvg-logo="" group-title="MEXICO // LATINO",MX Espn 3
+http://ultrontv.xyz:80/m123/m123/73681
+#EXTINF:-1 tvg-id="" tvg-name="MX Espn HD" tvg-logo="" group-title="MEXICO // LATINO",MX Espn HD
+http://ultrontv.xyz:80/m123/m123/73682
+#EXTINF:-1 tvg-id="" tvg-name="MX Espn Plus HD" tvg-logo="" group-title="MEXICO // LATINO",MX Espn Plus HD
+http://ultrontv.xyz:80/m123/m123/73683
+#EXTINF:-1 tvg-id="" tvg-name="MX Espn U HD" tvg-logo="" group-title="MEXICO // LATINO",MX Espn U HD
+http://ultrontv.xyz:80/m123/m123/73684
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Sports 2 HD" tvg-logo="" group-title="MEXICO // LATINO",MX Fox Sports 2 HD
+http://ultrontv.xyz:80/m123/m123/73700
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Sports 3 HD" tvg-logo="" group-title="MEXICO // LATINO",MX Fox Sports 3 HD
+http://ultrontv.xyz:80/m123/m123/73701
+#EXTINF:-1 tvg-id="" tvg-name="MX FoxSports 1 Mexico" tvg-logo="" group-title="MEXICO // LATINO",MX FoxSports 1 Mexico
+http://ultrontv.xyz:80/m123/m123/73702
+#EXTINF:-1 tvg-id="" tvg-name="MX MTV HD" tvg-logo="" group-title="MEXICO // LATINO",MX MTV HD
+http://ultrontv.xyz:80/m123/m123/73720
+#EXTINF:-1 tvg-id="" tvg-name="MX Nick 2 HD" tvg-logo="" group-title="MEXICO // LATINO",MX Nick 2 HD
+http://ultrontv.xyz:80/m123/m123/73729
+#EXTINF:-1 tvg-id="" tvg-name="MX Nick Jr." tvg-logo="" group-title="MEXICO // LATINO",MX Nick Jr.
+http://ultrontv.xyz:80/m123/m123/73730
+#EXTINF:-1 tvg-id="" tvg-name="MX Nickelodeon HD" tvg-logo="" group-title="MEXICO // LATINO",MX Nickelodeon HD
+http://ultrontv.xyz:80/m123/m123/73731
+#EXTINF:-1 tvg-id="" tvg-name="MX Nickelodeon SD" tvg-logo="" group-title="MEXICO // LATINO",MX Nickelodeon SD
+http://ultrontv.xyz:80/m123/m123/73732
+#EXTINF:-1 tvg-id="" tvg-name="MX Tooncast" tvg-logo="" group-title="MEXICO // LATINO",MX Tooncast
+http://ultrontv.xyz:80/m123/m123/73755
+#EXTINF:-1 tvg-id="" tvg-name="MX TP Fox Sports 1 HD" tvg-logo="" group-title="MEXICO // LATINO",MX TP Fox Sports 1 HD
+http://ultrontv.xyz:80/m123/m123/73760
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL 13C" tvg-logo="" group-title="CHILE // LATINO",Latin CL 13C
+http://ultrontv.xyz:80/m123/m123/37400
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL 13i" tvg-logo="" group-title="CHILE // LATINO",Latin CL 13i
+http://ultrontv.xyz:80/m123/m123/37401
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL 24 Horas" tvg-logo="" group-title="CHILE // LATINO",Latin CL 24 Horas
+http://ultrontv.xyz:80/m123/m123/37402
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL Canal 13 HD" tvg-logo="" group-title="CHILE // LATINO",Latin CL Canal 13 HD
+http://ultrontv.xyz:80/m123/m123/37403
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL CDF Premium*" tvg-logo="" group-title="CHILE // LATINO",Latin CL CDF Premium*
+http://ultrontv.xyz:80/m123/m123/37406
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL CDF HD" tvg-logo="" group-title="CHILE // LATINO",Latin CL CDF HD
+http://ultrontv.xyz:80/m123/m123/37407
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL Chilevision HD" tvg-logo="" group-title="CHILE // LATINO",Latin CL Chilevision HD
+http://ultrontv.xyz:80/m123/m123/37412
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL Fox Sports" tvg-logo="" group-title="CHILE // LATINO",Latin CL Fox Sports
+http://ultrontv.xyz:80/m123/m123/37413
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL Etc TV" tvg-logo="" group-title="CHILE // LATINO",Latin CL Etc TV
+http://ultrontv.xyz:80/m123/m123/37414
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL La Red" tvg-logo="" group-title="CHILE // LATINO",Latin CL La Red
+http://ultrontv.xyz:80/m123/m123/37415
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL La Red HD" tvg-logo="" group-title="CHILE // LATINO",Latin CL La Red HD
+http://ultrontv.xyz:80/m123/m123/37416
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL Mega" tvg-logo="" group-title="CHILE // LATINO",Latin CL Mega
+http://ultrontv.xyz:80/m123/m123/37417
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL Mega HD" tvg-logo="" group-title="CHILE // LATINO",Latin CL Mega HD
+http://ultrontv.xyz:80/m123/m123/37418
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL Rec TV" tvg-logo="" group-title="CHILE // LATINO",Latin CL Rec TV
+http://ultrontv.xyz:80/m123/m123/37420
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL TVN" tvg-logo="" group-title="CHILE // LATINO",Latin CL TVN
+http://ultrontv.xyz:80/m123/m123/37421
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL TV Chile" tvg-logo="" group-title="CHILE // LATINO",Latin CL TV Chile
+http://ultrontv.xyz:80/m123/m123/37422
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL Etc Tv" tvg-logo="" group-title="CHILE // LATINO",Latin CL Etc Tv
+http://ultrontv.xyz:80/m123/m123/37423
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL Fox Sports" tvg-logo="" group-title="CHILE // LATINO",Latin CL Fox Sports
+http://ultrontv.xyz:80/m123/m123/37424
+#EXTINF:-1 tvg-id="" tvg-name="Latin CL Sporting HD" tvg-logo="" group-title="CHILE // LATINO",Latin CL Sporting HD
+http://ultrontv.xyz:80/m123/m123/37425
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="Latin CO Winsports 1" tvg-logo="" group-title="COLUMBIA // LATINO",Latin CO Winsports 1
+http://ultrontv.xyz:80/m123/m123/37452
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="Latin CO Winsports 2" tvg-logo="" group-title="COLUMBIA // LATINO",Latin CO Winsports 2
+http://ultrontv.xyz:80/m123/m123/37453
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="Latin CO WinSports 3" tvg-logo="" group-title="COLUMBIA // LATINO",Latin CO WinSports 3
+http://ultrontv.xyz:80/m123/m123/37454
+#EXTINF:-1 tvg-id="" tvg-name="Latin CO DIRECTV SPORTS 1" tvg-logo="" group-title="COLUMBIA // LATINO",Latin CO DIRECTV SPORTS 1
+http://ultrontv.xyz:80/m123/m123/37455
+#EXTINF:-1 tvg-id="" tvg-name="Latin CO DIRECTV SPORTS 2" tvg-logo="" group-title="COLUMBIA // LATINO",Latin CO DIRECTV SPORTS 2
+http://ultrontv.xyz:80/m123/m123/37456
+#EXTINF:-1 tvg-id="" tvg-name="Latin CO DIRECTV SPORTS PLUS" tvg-logo="" group-title="COLUMBIA // LATINO",Latin CO DIRECTV SPORTS PLUS
+http://ultrontv.xyz:80/m123/m123/37457
+#EXTINF:-1 tvg-id="" tvg-name="Latin PE Frecuencia Latina HD" tvg-logo="" group-title="PERU // LATINO",Latin PE Frecuencia Latina HD
+http://ultrontv.xyz:80/m123/m123/37522
+#EXTINF:-1 tvg-id="" tvg-name="Latin PE Frecuencia Latina SD" tvg-logo="" group-title="PERU // LATINO",Latin PE Frecuencia Latina SD
+http://ultrontv.xyz:80/m123/m123/37523
+#EXTINF:-1 tvg-id="goltv.pe" tvg-name="Latin PE Gol Peru" tvg-logo="" group-title="PERU // LATINO",Latin PE Gol Peru
+http://ultrontv.xyz:80/m123/m123/37526
+#EXTINF:-1 tvg-id="goltv.pe" tvg-name="Latin PE Gol Peru HD" tvg-logo="" group-title="PERU // LATINO",Latin PE Gol Peru HD
+http://ultrontv.xyz:80/m123/m123/37527
+#EXTINF:-1 tvg-id="" tvg-name="Latin PE Movistar Deportes" tvg-logo="" group-title="PERU // LATINO",Latin PE Movistar Deportes
+http://ultrontv.xyz:80/m123/m123/37529
+#EXTINF:-1 tvg-id="" tvg-name="Latin PE Movistar Plus" tvg-logo="" group-title="PERU // LATINO",Latin PE Movistar Plus
+http://ultrontv.xyz:80/m123/m123/37530
